@@ -17,10 +17,10 @@ public class TestaBuscaAlunosNoCurso {
 		javaColecoes.matricula(new Aluno("Rodrigo Turini", 34672));
 		javaColecoes.matricula(new Aluno("Guilherme Silveira", 5617));
 		javaColecoes.matricula(new Aluno("Mauricio Aniche", 17645));
-		javaColecoes.matricula(new Aluno("Lucca Braz Barros", 12345));
+		javaColecoes.matricula(new Aluno("Lucca Braz Barros", 5617));
 		
-		System.out.println("Quem é o aluno com matricula 12345?");
-		Aluno aluno = javaColecoes.buscaMatriculado(12345);
+		System.out.println("Quem é o aluno com matricula 5617?");
+		Aluno aluno = javaColecoes.buscaMatriculado(5617);
 		System.out.println("Aluno: " + aluno);
 	}
 }
