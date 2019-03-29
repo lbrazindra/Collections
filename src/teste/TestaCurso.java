@@ -1,4 +1,8 @@
+package teste;
 import java.util.List;
+
+import modelo.Aula;
+import modelo.Curso;
 
 public class TestaCurso {
 	public static void main(String[] args) {

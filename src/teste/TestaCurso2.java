@@ -1,3 +1,7 @@
+package teste;
+import modelo.Aula;
+import modelo.Curso;
+
 public class TestaCurso2 {
 	public static void main(String[] args) {
 

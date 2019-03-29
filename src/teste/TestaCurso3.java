@@ -1,6 +1,10 @@
+package teste;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
+
+import modelo.Aula;
+import modelo.Curso;
 
 public class TestaCurso3 {
 	public static void main(String[] args) {

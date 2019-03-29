@@ -1,3 +1,4 @@
+package modelo;
 
 public class Aula implements Comparable<Aula>{
 
